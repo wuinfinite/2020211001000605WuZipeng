@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="2020211001000605WuZipeng:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>2020211001000605WuZipeng</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="_2020211001000605WuZipeng-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="2020211001000605WuZipeng:war exploded" />
+    </root>
+  </artifact>
+</component>
